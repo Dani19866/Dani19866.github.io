@@ -1,16 +1,20 @@
-# Portafolio de Daniel De Oliveira
+# ✨ Portafolio de Daniel De Oliveira ✨
 
-Este proyecto permite mostrar las habilidades blandas y duras de mi persona, así como los proyectos en los que he trabajado, destacando las tecnologías utilizadas. Es mi web para demostrar mis capacidades a personas interesadas en la programación, desarrollo e innovación.
+¡Bienvenido a mi portafolio! 🌟 Este proyecto es una ventana a mis habilidades, tanto **blandas** como **técnicas**, y los proyectos en los que he trabajado. Aquí podrás explorar las tecnologías que domino y cómo aplico mis conocimientos en programación, desarrollo e innovación. 🚀
 
-## Tecnologías utilizadas
-- React
-- Tailwind CSS
+## 🛠️ Tecnologías Utilizadas
+- ⚛️ **React**: Para crear una interfaz interactiva y dinámica.  
+- 🎨 **Tailwind CSS**: Para un diseño elegante y responsivo.
 
-## Contribuciones
-Proyecto personal desarrollado exclusivamente por mí.
+## 🎯 Propósito
+Este portafolio está diseñado para demostrar mis capacidades a personas interesadas en colaborar en proyectos de programación, desarrollo o innovación.
 
-## Licencia
-Este proyecto no utiliza licencia.
+## 🤝 Contribuciones
+Este es un proyecto personal, desarrollado exclusivamente por mí. 💻  
 
-## Autor
-Creado por **Daniel Antonio De Oliveira Beñose**.
+## 📜 Licencia
+Este proyecto **no utiliza licencia** actualmente.
+
+## 👨‍💻 Autor
+Creado con 💙 por **Daniel Antonio De Oliveira Beñose**.  
+¡Gracias por visitar! 😊
